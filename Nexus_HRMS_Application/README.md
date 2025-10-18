@@ -1,22 +1,5 @@
 # 🚀 Nexus HRMS - Next-Generation Human Resource Management System
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-FF6600?style=for-the-badge&logo=java&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**A comprehensive, secure, and scalable HRMS solution built with modern Java technologies**
-
-[Features](#features) • [Architecture](#architecture) • [Database](#database) • [Setup](#setup) • [Screenshots](#screenshots)
-
-</div>
-
----
-
 ## 🌟 **Project Overview**
 
 Nexus HRMS is a full-stack Human Resource Management System designed to streamline HR operations from employee onboarding to payroll management. Built with **Java Servlets, JSP, and MySQL**, it features role-based dashboards, real-time analytics, and seamless OAuth2 integration.
@@ -88,25 +71,14 @@ Nexus HRMS is a full-stack Human Resource Management System designed to streamli
 
 ### **Tech Stack**
 ```
-Frontend:  JSP + Bootstrap 5 + AdminLTE + Chart.js
+Frontend:  JSP + Bootstrap 5 + AdminLTE chart.js 
 Backend:   Java Servlets + JSTL
 Database:  MySQL 8.0+
-Security:  BCrypt + OAuth2 (Google Sign-in)
+Security:   OAuth2 (Google Sign-i)
 Server:    Apache Tomcat 10.x
-Build:     Maven/Gradle (Dynamic Web Project)
+Build:     Dynamic Web Project
 ```
 
-
-
-
-## 👨‍💻 **Author**
-
-** Atul jaiswal **
-- 📧 Email: atuljaiswal683@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐱 GitHub: [Your GitHub Profile]
-
----
 
 ## 🙏 **Acknowledgments**
 
@@ -118,10 +90,3 @@ Build:     Maven/Gradle (Dynamic Web Project)
 
 ---
 
-<div align="center">
-
-**⭐ Star this repository if you found it helpful! ⭐**
-
-**Built with ❤️ using Java & Modern Web Technologies**
-
-</div>
